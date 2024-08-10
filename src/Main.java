@@ -13,7 +13,7 @@ public class Main {
             System.out.print("Input: ");
             String input1 = scan1.nextLine();
             Scanner scan2 = new Scanner(System.in);
-            System.out.print("Operator: "+input1+" ");
+            System.out.print("Operation: "+input1+" ");
             String oper = scan2.nextLine();
             Scanner scan3 = new Scanner(System.in);
             System.out.print("Input: "+input1+" "+oper+" ");
